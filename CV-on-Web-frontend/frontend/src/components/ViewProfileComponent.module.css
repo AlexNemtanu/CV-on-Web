@@ -1,0 +1,21 @@
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-header hr {
+    flex: 1;
+    border: none;
+    height: 1px;
+    background-color: #ccc;
+    margin: 0;
+}
+
+.card-body hr {
+    border: none;
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;
+}
