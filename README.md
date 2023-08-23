@@ -1,4 +1,4 @@
-# Cv-on-Web
+# Cv Generator
 Open the directory with the project and run the command:
 npm start
 
@@ -10,6 +10,7 @@ In case you want to log in, use this credentials:
 username: Alex
 password: 1234
 
-Or you have the posibility to create your own account in the register menu.
+Or you have the possibility to create your own account in the register menu.
 
-Once, you are logged in you can add, update given information, view or delete the Cv's.
+Once logged in, you can add, update given information, view or delete the Cv's.
+The project isn't finished yet
